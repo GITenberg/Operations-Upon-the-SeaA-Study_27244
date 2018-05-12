@@ -1,0 +1,29 @@
+_repo: Operations-Upon-the-SeaA-Study_27244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edelsheim, Franz, Freiherr von
+    birthdate: 1868
+    gutenberg_agent_id: '32568'
+    url: http://www.gutenberg.org/2009/agents/32568
+description: ''
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27244'
+  lccn: '14021987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'V'
+- !lcsh 'Germany. Heer -- Transport service'
+- !lcsh 'Transportation, Military'
+- !lcsh 'Sea-power'
+- !lcsh 'Germany. Kriegsmarine'
+title: 'Operations Upon the Sea: A Study'
+url: http://www.gutenberg.org/ebooks/27244
